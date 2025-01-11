@@ -1,3 +1,5 @@
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/Minecraft_Beta_1.8.1_Pre-Release_4/total?style=for-the-badge">
+
 # Minecraft_Beta_1.8.1_Pre-Release_4
 別の世界線でのかつてのハロウィンアップデート。<br>
 このバージョンでへロブラインの亜種やVoid系という新しい概念のMobや新たな要素を追加しようとしたが...なぜこうなってしまった...？
