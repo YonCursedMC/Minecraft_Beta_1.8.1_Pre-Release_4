@@ -36,6 +36,9 @@ https://multimc.org/#Download<br>
 
 4. 楽しむ！
 
+### サーバー
+- 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。
+
 ## How to run it
 ### Client
 
@@ -54,15 +57,22 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 
 4. Enjoy!
 
+### Server
+- It's the same as a normal Minecraft server. Please do your own research and try it out.
+
 ## クレジット
 クレジット
 ### テクスチャ製作者
 - TestAlpha様
 - Tei様
 ### 画像生成
-- Google ImageFX様
+- Google ImageFX様<br>
+https://labs.google/fx/ja/tools/image-fx
 ### 音
-- Pixabay様
+- Pixabay様<br>
+https://pixabay.com<br>
+
+
 ありがとうございます！
 
 ## Credits
@@ -71,7 +81,10 @@ Credits
 - TestAlpha
 - Tei
 ### Image generation
-- Google ImageFX
+- Google ImageFX<br>
+https://labs.google/fx/ja/tools/image-fx
 ### Sound
-- Pixabay
+- Pixabay<br>
+https://pixabay.com<br>
+
 Thank you!
