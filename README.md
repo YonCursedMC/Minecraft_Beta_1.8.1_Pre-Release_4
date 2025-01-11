@@ -32,7 +32,7 @@ https://github.com/Yon4800/Minecraft_Beta_1.8.1_Pre-Release_4/releases<br>
 https://multimc.org/#Download<br>
 をインストールし、インストールが完了したら、1.でダウンロードしたzipファイルをドラック&ドロップします。<br>
 
-3. インストールできたら、JavaのインストールでJava8を指定し、メモリ割り当てを必要に応じて変え、起動をクリック<br>
+3. インストールできたら、Javaのインストールで先ほどインストールしたzuluのJava8を指定し、メモリ割り当てを必要に応じて変え、起動をクリック<br>
 
 4. 楽しむ！
 
@@ -53,7 +53,7 @@ The top one here is ``b1.8.1_pre4.zip```<br>
 https://multimc.org/#Download<br>
 and once the installation is complete, drag and drop the zip file downloaded in 1.<br>
 
-3. Once installed, specify Java8 in the Java installation, change the memory allocation as needed, and click Start
+3. Once installed, specify the zulu Java 8 that you installed earlier in the Java installation, change memory allocation as necessary, and click Start<br>
 
 4. Enjoy!
 
