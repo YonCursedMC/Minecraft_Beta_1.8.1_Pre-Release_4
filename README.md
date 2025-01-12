@@ -87,7 +87,7 @@ https://labs.google/fx/ja/tools/image-fx
 - Pixabay<br>
 https://pixabay.com<br>
 
-Thank you!
+Thank you!<br>
 
-要素はやるまでのお楽しみです。
-You'll have to wait to try it out to see what the elements are.
+要素はやるまでのお楽しみです。<br>
+You'll have to wait to try it out to see what the elements are.<br>
