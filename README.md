@@ -37,7 +37,8 @@ https://multimc.org/#Download<br>
 4. 楽しむ！
 
 ### サーバー
-- 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。
+- 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
+※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
 
 ## How to run it
 ### Client
@@ -58,7 +59,8 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 4. Enjoy!
 
 ### Server
-- It's the same as a normal Minecraft server. Please do your own research and try it out.
+- It's the same as a normal Minecraft server. Please do your own research and try it out.<br>
+※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
 
 ## クレジット
 クレジット
