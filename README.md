@@ -88,3 +88,6 @@ https://labs.google/fx/ja/tools/image-fx
 https://pixabay.com<br>
 
 Thank you!
+
+要素はやるまでのお楽しみです。
+You'll have to wait to try it out to see what the elements are.
