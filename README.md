@@ -66,7 +66,6 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 クレジット
 ### テクスチャ製作者
 - TestAlpha様
-- Tei様
 ### 画像生成
 - Google ImageFX様<br>
 https://labs.google/fx/ja/tools/image-fx
@@ -81,7 +80,6 @@ https://pixabay.com<br>
 Credits
 ### Texture creators
 - TestAlpha
-- Tei
 ### Image generation
 - Google ImageFX<br>
 https://labs.google/fx/ja/tools/image-fx
