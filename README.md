@@ -11,12 +11,16 @@ In this version, I tried to add a new concept of mobs and new elements such as H
 - このバージョンをプレイして発生した損害に関しては製作者は一切の責任を負いません。
 - 無断転載は禁止です。もし発見したら報告します。
 - MCPのライセンスによりコードは公開しません。
+- 点滅やドッキリ要素、ホラー音が多いです。
+- やる際は十分注意してください。
 
 ## caution
 - This version is not actually released by Mojang or officially certified.
 - The creator takes no responsibility for any damage caused by playing this version.
 - Unauthorized reproduction is prohibited. If I discover it, I'll report it.
 - The code will not be published due to the MCP license.
+- Contains flashing, scary elements, and horror sounds.
+- Please be careful when playing.
 
 ## 動かし方
 ### クライアント
