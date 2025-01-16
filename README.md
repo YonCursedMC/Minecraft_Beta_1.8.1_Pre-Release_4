@@ -11,16 +11,16 @@ In this version, I tried to add a new concept of mobs and new elements such as H
 - このバージョンをプレイして発生した損害に関しては製作者は一切の責任を負いません。
 - 無断転載は禁止です。もし発見したら報告します。
 - MCPのライセンスによりコードは公開しません。
-- 点滅やドッキリ要素、ホラー音が多いです。
-- やる際は十分注意してください。
+- 点滅やドッキリ要素、ホラー音が多いです。やる際は十分注意してください。
+- かなり重いです。やる際はそれなりのCPUやビデオカードを搭載したPCをご用意ください。
 
-## caution
-- This version is not actually released by Mojang or officially certified.
+## Caution
+- This version was not actually released by Mojang, nor is it officially certified.
 - The creator takes no responsibility for any damage caused by playing this version.
-- Unauthorized reproduction is prohibited. If I discover it, I'll report it.
-- The code will not be published due to the MCP license.
-- Contains flashing, scary elements, and horror sounds.
-- Please be careful when playing.
+- Unauthorized reproduction is prohibited. If you find any, please report them.
+- Due to the MCP license, the code will not be released.
+- There are many flashing, surprising elements, and horror sounds. Please be careful when playing.
+- It is quite heavy. Please prepare a PC with a decent CPU and video card when playing.
 
 ## 動かし方
 ### クライアント
@@ -95,3 +95,11 @@ Thank you!<br>
 
 要素はやるまでのお楽しみです。<br>
 You'll have to wait to try it out to see what the elements are.<br>
+
+※ サーバーでやる際の注意
+- 稀に勝手にキックされることがありますが、仕様です。
+- シングルプレイと仕様が違うことがあります。注意してください。
+
+※ Notes when playing on a server
+- Occasionally you may be kicked out of the game, but this is by design.
+- The design may differ from single player. Please be careful.
