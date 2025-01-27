@@ -76,7 +76,8 @@ https://labs.google/fx/ja/tools/image-fx
 ### 音
 - Pixabay様<br>
 https://pixabay.com<br>
-
+- freesound様<br>
+https://freesound.org<br>
 
 ありがとうございます！
 
@@ -90,6 +91,8 @@ https://labs.google/fx/ja/tools/image-fx
 ### Sound
 - Pixabay<br>
 https://pixabay.com<br>
+- freesound<br>
+https://freesound.org<br>
 
 Thank you!<br>
 
